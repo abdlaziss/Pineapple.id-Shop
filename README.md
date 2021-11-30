@@ -7,12 +7,12 @@ Aplikasi toko online berbasis web menggunakan framework CodeIgniter 3
 ## Tampilan Homepage
 
 <p align="center">
-  <img src="https://i.ibb.co/44TqPrJ/Annotation-2020-04-26-063829.png" alt="SS">
+  <img src="https://ibb.co/h2r2dJ3" alt="SS">
 </p>
 
 ## Login
 
-|      User     |       Email      	|    Password   |
-|:-------------:|:-----------------:|:-------------:|
-| Administrator | admin@admin.com  	| admin@cishop	|
-| Member        | member@member.com	| member@cishop	|
+|     User      |       Email       |   Password    |
+| :-----------: | :---------------: | :-----------: |
+| Administrator |  admin@admin.com  | admin@cishop  |
+|    Member     | member@member.com | member@cishop |
