@@ -7,7 +7,7 @@ Aplikasi toko online berbasis web menggunakan framework CodeIgniter 3
 ## Tampilan Homepage
 
 <p align="center">
-  <img src="https://ibb.co/h2r2dJ3" alt="SS">
+  <img src="[url=https://ibb.co/h2r2dJ3][img]https://i.ibb.co/wp8pQF5/Screenshot-165.png[/img][/url]" alt="SS">
 </p>
 
 ## Login
