@@ -60,12 +60,12 @@ CREATE TABLE `category` (
 --
 
 INSERT INTO `category` (`id`, `slug`, `title`) VALUES
-(1, 'android', 'Android Phone'),
-(2, 'laptops', 'Laptops'),
-(3, 'game-console', 'Game Console'),
-(4, 'power-banks', 'Power Banks'),
-(5, 'iphone', 'Iphone'),
-(6, 'macbooks', 'Macbooks');
+(1, 'converse', 'Converse'),
+(2, 'vans', 'Vans'),
+(3, 'nike', 'Nike'),
+(4, 'adidas', 'Adidas'),
+(5, 'new-balance', 'New Balance'),
+(6, 'shoes-cleaner', 'Shoes Cleaner');
 
 -- --------------------------------------------------------
 
@@ -164,9 +164,9 @@ CREATE TABLE `product` (
 --
 
 INSERT INTO `product` (`id`, `id_category`, `slug`, `title`, `description`, `price`, `is_available`, `image`) VALUES
-(2, 3, 'ps-3-stick-console', 'PS 3 Stick Console', 'Stick controller for PS 3', 500000, 1, 'console.jpg'),
-(3, 3, 'playstation-3', 'Playstation 3', 'PS 3 new edition', 3000000, 1, 'playstation-3-20200314173701.jpg'),
-(4, 2, 'amd-ryzen-5', 'AMD Ryzen 5', 'Generasi terbaru prosesor AMD', 5000000, 1, 'amd-ryzen-5-20200314174154.jpg');
+(6, 1, 'converse-chuck-70s-hi-flame', 'Converse Chuck 70s HI Flame', 'Sepatu Converse Chuck 70s HI Flame', 1299000, 1, 'converse-chuck-70s-hi-flame-20211128134822.jpg'),
+(8, 4, 'adidas-ultraboost-50-dna', 'Adidas Ultraboost 5.0 DNA', 'Sepatu Adidas Ultraboost 5.0 DNA', 4399000, 1, 'adidas-ultraboost-50-dna-20211128135645.jpg'),
+(10, 2, 'vans-x-moma-classic-slip-on-vasily-kandinsky', 'VANS x MoMA Classic Slip On Vasily Kandinsky', 'Sepatu VANS x MoMA Classic Slip On Vasily Kandinsky', 2499000, 1, 'vans-x-moma-classic-slip-on-vasily-kandinsky-20211128140214.jpg');
 
 -- --------------------------------------------------------
 
